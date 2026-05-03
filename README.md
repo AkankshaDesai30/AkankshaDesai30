@@ -15,7 +15,8 @@ Backend Development
 - Hibernate (Basics)  
 
 Databases  
-- MySQL  
+- MySQL
+- Postgresql
 - Basic SQL & Queries  
 
 Frontend (Basic)  
