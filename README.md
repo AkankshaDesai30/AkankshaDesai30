@@ -1,16 +1,38 @@
-## Hi there 👋
+🚀 About Me  
+I’m an aspiring Java Backend Developer with an MCA degree, focused on building efficient and scalable web applications. I have hands-on experience with Java, JDBC, Servlets, JSP, and Spring MVC, and I’m currently expanding my expertise in Spring Boot and modern backend technologies.  
 
-<!--
-**AkankshaDesai30/AkankshaDesai30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently Learning: Spring Microservices, Hibernate, REST APIs, SQL Optimization  
+💡 Interested in: Backend development, scalable architectures, data analysis  
+💬 Ask Me About: Java, JDBC, Servlets, JSP, Spring MVC,Spring Boot, MySQL  
+📫 How to Reach Me: akankshadesai932@gmail.com 
 
-Here are some ideas to get you started:
+🛠️ Skills & Technologies  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend Development  
+- Java (Core & Advanced)  
+- JDBC, Servlets, JSP  
+- Spring Framework (Spring MVC - Learning Spring Boot)  
+- Hibernate (Basics)  
+
+Databases  
+- MySQL  
+- Basic SQL & Queries  
+
+Frontend (Basic)  
+- HTML  
+- CSS  
+- JavaScript  
+
+Tools & Other Technologies  
+- Git & GitHub  
+- Eclipse   
+- Postman (API Testing) 
+
+📌 Projects  
+- Student Management System (JDBC + MySQL)  
+- MVC CRUD Application (Spring MVC + Hibernate)  
+- Employee Management System  
+
+🔗 Connect with Me  
+inkedin.com/in/akanksha-desai-748b2b281
+https://www.instagram.com/a_n_desai932
